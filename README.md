@@ -155,14 +155,14 @@ weighted avg       0.30      0.29      0.29       189
 ###  **Confusion Matrices**
 
 #### **Issue Type**
-
-![Issue Type Confusion Matrix](path/to/issue_conf_matrix.png)
+![Screenshot (237)](https://github.com/user-attachments/assets/1bfc9868-af5f-4451-a959-e1fdc327aa30)
 
 #### **Urgency Level**
 
-![Urgency Level Confusion Matrix](path/to/urgency_conf_matrix.png)
 
-> *Save confusion matrix plots from your code using `plt.savefig('path/to/issue_conf_matrix.png')`.*
+![Screenshot (238)](https://github.com/user-attachments/assets/4b114193-18da-4d56-bc78-912961a94da7)
+
+
 
 ---
 
