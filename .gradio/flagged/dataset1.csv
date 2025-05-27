@@ -1,0 +1,3 @@
+Enter Ticket Text,Issue Type,Urgency Level,Extracted Entities,timestamp
+My printer is broken and won't print anything,"{""label"": null, ""confidences"": null}","{""label"": null, ""confidences"": null}",,2025-05-27 10:38:21.674334
+Router connection keeps dropping every few minutes,"{""label"": ""Billing Problem"", ""confidences"": null}","{""label"": ""Medium"", ""confidences"": null}","{""dates"": [""every few""], ""complaints"": [""drop""]}",2025-05-27 15:28:36.611810

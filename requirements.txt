@@ -1,0 +1,14 @@
+pandas
+scikit-learn
+nltk
+spacy
+textblob
+fuzzywuzzy
+python-Levenshtein
+gradio
+matplotlib
+seaborn
+joblib
+openpyxl
+xlrd
+tqdm
